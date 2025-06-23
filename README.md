@@ -17,5 +17,6 @@ To eliminate forged academic documents by leveraging the trust and transparency 
 - NFT-based certificate representations.
 
 ## Contract Details
-* 0xd9145CCE52D386f254917e481eB44e9943F39138 *
-![image](https://github.com/user-attachments/assets/4f496142-0578-4cfb-871a-a357b959c4f1)
+* 0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8 *
+![image](https://github.com/user-attachments/assets/42e3331b-476e-42a5-99ec-e9c7a4bb75b6)
+
